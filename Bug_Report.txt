@@ -1,7 +1,0 @@
-Bug_id:
-Title:
-Environment:
-STR (step to reproduce):
-AR (actual result):
-ER (expected result):
-Attachments:
